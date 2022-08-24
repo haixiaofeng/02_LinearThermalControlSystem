@@ -1,7 +1,7 @@
 </br>
 
 ### Homeo:
-#### Control System For Greenhouse Thermoregulation Using Water-Based Solar Thermal Storage
+#### Linear Thermal Control System
 </br>
 </br>
 
