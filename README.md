@@ -4,7 +4,8 @@
 #### Linear Thermal Control System
 </br>
 </br>
+</br>
 
-Please visit the [project portfolio](https://haixiaofengcareer.wixsite.com/projects) for details (hosted via _wix.com_)
+Please visit the _[project portfolio](https://haixiaofengcareer.wixsite.com/projects)_ for details (hosted via _wix.com_)
 </br>
 </br>
