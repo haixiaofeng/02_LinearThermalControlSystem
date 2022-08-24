@@ -1,6 +1,6 @@
 </br>
 
-### Homeo:
+### Homeo :
 #### Linear Thermal Control System
 </br>
 </br>
